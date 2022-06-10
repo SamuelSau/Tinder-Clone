@@ -15,3 +15,7 @@
     color: rgb(255, 255, 255);
     padding: 30px;
 }
+
+.header > img {
+    padding-right: 40px;
+}

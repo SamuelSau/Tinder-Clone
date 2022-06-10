@@ -1,7 +1,7 @@
 body {
-    background: linear-gradient(140deg, #FD297B 0%,rgb(222, 222, 146) 100%);
+    background: linear-gradient(140deg, #fe5898 0%,#fd7b83 50%, #ff8f87 100%);
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-family: 'Raleway', sans-serif;    
+        
 }
