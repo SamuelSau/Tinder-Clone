@@ -1,9 +1,16 @@
+import React from 'react'
 import './App.css';
+import Header from './Components/Header'
 
 function App() {
   return (
     <div className="App">
-      <h1>Tinder Clone Project!</h1>
+
+      {/* Header */}
+      <Header />
+      {/* Tinder */}
+      {/* Swipe Buttons */}
+
     </div>
   );
 }
