@@ -9,7 +9,7 @@ import ChatIcon from '@mui/icons-material/Chat';
 function Header() {
 	return (
 		<div className='header'>
-			<IconButton>
+			<IconButton size='small'>
 				<PersonIcon fontSize='large' className='header___icon' />
 			</IconButton>
 			<img
@@ -17,7 +17,7 @@ function Header() {
 				src='https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-Logo.wine.svg'
 				alt='Tinder Logo'
 			/>
-			<IconButton>
+			<IconButton size='small'>
 				<ChatIcon fontSize='large' className='header___icon' />
 			</IconButton>
 		</div>

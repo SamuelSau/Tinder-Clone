@@ -3,15 +3,15 @@
     align-items: center;
     justify-content : space-between;
     z-index: 999;
-    border-bottom: 1px solid rgb(122, 122, 122);
+    border-bottom: 1px solid rgb(255, 255, 255);
 }
 
 .header___logo {
     object-fit: contain;
-    height: 80px;
+    height: 100px;
 }
 
 .header___icon {
     color: rgb(255, 255, 255);
-    padding: 20px
+    padding: 30px;
 }
