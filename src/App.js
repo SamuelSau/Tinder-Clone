@@ -1,19 +1,20 @@
-import React from 'react'
+import React from 'react';
 import './App.css';
-import Header from './Components/Header'
+
+//Importing Components
+import Header from './Components/Header';
+import TinderCards from './Components/TinderCards';
 
 function App() {
-  return (
-    <div className="App">
-
-      {/* Header */}
-      <Header />
-      {/* TinderCards */}
-
-      {/* Swipe Buttons */}
-
-    </div>
-  );
+	return (
+		<div className='App'>
+			{/* Header */}
+			<Header />
+			{/* TinderCards */}
+			<TinderCards />
+			{/* Swipe Buttons */}
+		</div>
+	);
 }
 
 export default App;

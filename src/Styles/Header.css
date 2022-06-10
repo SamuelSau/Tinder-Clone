@@ -3,7 +3,7 @@
     align-items: center;
     justify-content : space-between;
     z-index: 999;
-    border-bottom: 1px solid rgb(152, 152, 152);
+    border-bottom: 1px solid rgb(122, 122, 122);
 }
 
 .header___logo {
@@ -12,6 +12,6 @@
 }
 
 .header___icon {
-    color: gray;
+    color: rgb(255, 255, 255);
     padding: 20px
 }
