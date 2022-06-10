@@ -8,7 +8,8 @@ function App() {
 
       {/* Header */}
       <Header />
-      {/* Tinder */}
+      {/* TinderCards */}
+
       {/* Swipe Buttons */}
 
     </div>

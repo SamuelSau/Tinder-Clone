@@ -1,3 +1,17 @@
 .header {
-    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content : space-between;
+    z-index: 999;
+    border-bottom: 1px solid rgb(152, 152, 152);
+}
+
+.header___logo {
+    object-fit: contain;
+    height: 80px;
+}
+
+.header___icon {
+    color: gray;
+    padding: 20px
 }
