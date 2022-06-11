@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Styles/Header.css';
 
-//MaterialIU Icons
+//Importing MaterialUI Icons
 import PersonIcon from '@mui/icons-material/Person';
 import IconButton from '@mui/material/IconButton';
 import ChatIcon from '@mui/icons-material/Chat';
